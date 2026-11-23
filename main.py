@@ -5,7 +5,9 @@ Writes one one-line joke about working beside AI coding agents to
 /output/entry.txt. Deterministic, no network, no randomness.
 """
 
-import os
+from pathlib import Path
+
+OUTPUT_PATH = Path("/output/entry.txt")
 
 JOKE = (
     "I asked my AI agent to review my code. It approved the pull request "
@@ -14,9 +16,9 @@ JOKE = (
 
 
 def main() -> None:
-    os.makedirs("/output", exist_ok=True)
-    with open("/output/entry.txt", "w", encoding="utf-8") as f:
-        f.write(JOKE)
+    OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
+    OUTPUT_PATH.write_text(JOKE, encoding="utf-8")
+    print(JOKE)
 
 
 if __name__ == "__main__":
