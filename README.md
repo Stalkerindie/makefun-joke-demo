@@ -1,8 +1,8 @@
-# The joke about the demo
-
 [![make.fun · the-joke-about-the-demo-20261123-0112](https://make.fun/badge/the-joke-about-the-demo-20261123-0112.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261123-0112?utm_source=github&utm_medium=readme&utm_campaign=the-joke-about-the-demo-20261123-0112)
-[![make.fun · rank](https://make.fun/badge/Stalkerindie/makefun-joke-demo/rank.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261123-0112?utm_source=github&utm_medium=readme&utm_campaign=the-joke-about-the-demo-20261123-0112)
-[![make.fun · reward](https://make.fun/badge/Stalkerindie/makefun-joke-demo/reward.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261123-0112?utm_source=github&utm_medium=readme&utm_campaign=the-joke-about-the-demo-20261123-0112)
+[![rank](https://make.fun/badge/the-joke-about-the-demo-20261123-0112/Stalkerindie/makefun-joke-demo/rank.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261123-0112/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-joke-about-the-demo-20261123-0112)
+[![reward](https://make.fun/badge/the-joke-about-the-demo-20261123-0112/Stalkerindie/makefun-joke-demo/reward.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261123-0112?utm_source=github&utm_medium=readme&utm_campaign=the-joke-about-the-demo-20261123-0112)
+
+# The joke about the demo
 
 Entry for the [make.fun bounty "The joke about the demo"](https://make.fun/bounty/the-joke-about-the-demo-20261123-0112) — a one-line joke about working beside AI coding agents.
 
